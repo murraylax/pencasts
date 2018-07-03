@@ -1,0 +1,72 @@
+------ Review #2 --------------------------------------------------
+
+ * Is the online resource clearly useful as a high quality and
+   interesting teaching resource for faculty and/or students of economics
+   and is there enough there for a publication in JEE?
+
+   I see this submission as having two aspects -- a demonstration of this
+   novel technology and the actual content. The technology is new to
+   economics, as best I know, and a significant advance over the
+   alternative. Briefly, when the user clicks on a page, they see a graph
+   or calculation being developed as a voice narrates its development.
+   It is as if one is just watching a whiteboard and listening to the
+   instructor. This is superior to video of someone at a board as the
+   person is extraneous, sometimes in the way, and often distracting.
+   Also, here the text or graph is at their maximum size as all one sees
+   is a page of content. It very much reminds me of Khan Academy videos,
+   which use a different and substantially more expensive technology for
+   the same result. I believe that "smart boards," which seem
+   increasingly common in K-12, offer the same functionality, but they
+   are even more expensive and can't be readily used in an instructor's
+   office.
+
+   The content of this site is standard for macro principles and there
+   are typical descriptions of those topics. Thus, I downplay the actual
+   content as I suspect that a fair number of instructors will use this
+   technology on their own. That said, I saw no problems with the
+   pencasts that I reviewed.
+
+   If this submission was to a different section of the JEE I would
+   suggest that it include evidence that this improves learning. However,
+   for this section, I do not see that need.
+
+   Since a major focus of this is the technology, some description of its
+   costs, special requirements, and pitfalls seems appropriate.
+
+ * Does the technology "work?"
+
+   Yes, and it works very well. Besides the broad aspect of listening to
+   and seeing a graph or calculation appear before their eyes, there are
+   subtle aspects of the user interface that add to the user experience.
+   For example, one can click on any portion of the page to have the talk
+   start or restart at that point.
+
+ * Is the technology new or its application unusual (not essential,
+   but a plus)?
+
+   As best I know, the technology is new to economics.
+
+ * Does the Note accurately describe the online resources? We don't
+   always review in depth the entire content for accuracy of detail (some
+   are virtual books), but obviously any problems with content you find
+   should also be included.
+
+   Yes, the note provides a good description. One very minor issue is
+   that it refers to "nine topics" while there are three to eight
+   pencasts for each topic. This distinction might be mentioned.
+
+ * The JEE does not want to advertise books or "for pay" online sites; is
+   there enough free online content to make this a useful resource for
+   teaching?
+
+   The site is entirely free. It does describe a fee-based technology,
+   but I do not see that as a hindrance.
+
+ * Please conclude by recommending one of reject, accept (with minor
+   revisions if needed), or accept but with major revisions.
+
+   I recommend acceptance, but I do suggest that the author describe the
+   pitfalls, costs, and caveats of this technology. I would think it
+   would work best on the website.
+
+-------------------------------------------------------------------

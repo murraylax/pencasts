@@ -1,0 +1,106 @@
+------ Review #1 --------------------------------------------------
+
+Overall, I recommend that JEE accept the submission, and although I do
+not think that revisions are necessary, I think a few minor revisions would
+add value to the submission.
+
+The submission is a website with forty Pencasts on various topics from
+a typical Introductory Macroeconomics course.  Each Pencast shows lecture
+notes being written with simultaneous narration.  The lectures cover a
+broad range of Introductory topics.  In most cases they show how to derive
+and apply a graphical model.  Some show how to derive and apply an
+equation.
+
+The particular technology allows viewers three viewing options:  they
+can view all of the notes immediately; view only the portion of the notes
+that the narrator has discussed up to that point in the lecture; or view
+the upcoming portions in grey and the covered portions in green.  The
+viewer can also skip to various points in the lecture by clicking on the
+relevant section of the notes.  These features make it easy to follow along
+and easy to repeat difficult sections.  Students should find this useful.
+
+The Pencasts range in length from one minute forty-six seconds to nine
+minutes seven seconds.  Most are four to six minutes long.
+
+The submission is satisfactory regarding several issues of potential
+concern:
+   • The Pencasts are of sufficiently high quality.  This should be an
+     interesting and useful resource for students that either struggling
+     with a particular topic or have missed that particular lecture.  Many
+     instructors of an Introductory Macroeconomics course should find it
+     worthwhile to tell their students of this resource.  With forty
+     different Pencasts and almost as many topics, there is sufficient
+     material for JEE publication.
+   • The technology worked as intended.
+   • It seems that this particular technology is new to teaching economics.
+      While lectures on economics are available online, I think that this
+     technology is different enough to provide unique features that some
+     students will find appealing.
+   • Overall, the author’s description is accurate.  However, there are a
+     couple of minor issues that I think should be addressed.  1) I do not
+     think that the topics covered are particularly difficult for students,
+     even though the author describes them as so.  2) The author cites
+     Pencasts as being useful for “teaching modeling strategy,” but the
+     posted Pencasts do not seem to demonstrate this.  Although the author
+     is using economic models to solve hypothetical problems, the narration
+     seems limited to solving problems given the model, rather than
+     choosing or developing an economic model—i.e. modeling.  3) The
+     author’s description omits a description of the style of these
+     particular Pencasts.  In this case, I think the style is a very
+     friendly one, geared towards teaching the basic mechanics of the
+     models.  This would be in contrast to other possible styles, such as a
+     more formal style or one with an emphasis on intuition instead of
+     mechanics.
+   • Use of the Pencasts is free.
+
+I think that the Pencasts provide value to students and teachers.
+Nevertheless, I think that some changes could increase the value.
+
+I think the friendly tone of the Pencast is appealing, but I think
+that polishing some of the presentations would still add value without
+taking away the friendly tone.  In a couple of the presentations, the
+narrator seems to stumble a bit.  In a couple of the presentations, the
+author makes mistakes and then corrects them.  I would anticipate that with
+so many potential viewers, many would appreciate rerecorded, smoother
+presentations in those instances.
+
+The narrator seems to use the plural “axes” when referring to the
+singular “axis.”
+
+There are a couple of economic mistakes.  In “Calculating Opportunity
+Costs Using Production Possibility Frontiers,” the author says he is
+calculating the marginal opportunity cost when he is calculating the
+average opportunity cost.  In “Shifts in Demand,” the author says that an
+extension of the subsidy causes a shift in demand, when in fact an
+extension could leave demand the same while an end to the subsidy would
+cause a shift.  In “Measuring Inflation Using the Consumer Price Index,”
+the author writes the inverse of the correct formula to calculate the CPI.
+For a 2005 base year, it should be: CPI in 2010 is the price level in 2010
+divided by the price level in 2005.  Ultimately, the calculation is
+correct, but the initial formula is wrong.  In “Introduction to AS and AD,”
+the written notes are misleading by writing that “employment stay same.”
+The narration is correct that (relatively speaking) employment costs stay
+the same, but employment staying the same would wrongly imply that there is
+no cyclical unemployment due to sticky wages.  In “Effects of Production
+Costs on AS/AD,” I disagree with the analysis.  I do not think that the
+economy will automatically adjust to full employment following a negative
+supply shock, and I have not seen this type of adjustment in an
+Introductory textbook.  This shock should be akin to the production
+function shifting down in real terms.  Instead, I think that the negative
+supply shock should be viewed as either temporary or permanent.  If
+temporary, the (SR)AS and output will return to potential.  If permanent,
+then the LRAS will shift in.  In “Demand for Money,” I think it is
+preferable to say that real money demand is adjusted for the price level,
+not adjusted for inflation, although this is somewhat of a semantic issue.
+In “Money Supply and Money Market Equilibrium,” the money supply is
+vertical because the quantity of money supplied does not automatically vary
+with the interest rate, not because the Fed can choose any (target)
+interest rate.  In fact, (typically) the Fed will have to change the money
+supply in order to achieve a new target interest rate.
+
+Overall, it is nice to see that someone is providing these learning
+aids to students and faculty.  I hope that it is just the beginning and
+that soon faculty and graduate students will be competing to provide better
+and better Pencasts to help students learn the material.
+
+
